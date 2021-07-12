@@ -1,17 +1,11 @@
-# login_uygulamasi
+# Basit Login Uygulamsı Flutter
 
-A new Flutter project.
+![basit login uygulaması 1](https://user-images.githubusercontent.com/71720425/125331691-fad3b780-e350-11eb-8bcb-c27408a4f4dc.png)
 
-## Getting Started
+<hr>
 
-This project is a starting point for a Flutter application.
+![login uygulamasi 2](https://user-images.githubusercontent.com/71720425/125331694-fc04e480-e350-11eb-8b0d-4561d57172ca.png)
 
-A few resources to get you started if this is your first Flutter project:
+<hr>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Basit-Login-Uygulamas-Flutter
+![login uygulamasi 3](https://user-images.githubusercontent.com/71720425/125331695-fc9d7b00-e350-11eb-9861-b4d12004818a.png)
